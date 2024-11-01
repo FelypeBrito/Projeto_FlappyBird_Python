@@ -16,8 +16,8 @@ pip install pygame
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/FelypeBrito/jogo-passaro.git
-   cd jogo-passaro
+   git clone https://github.com/FelypeBrito/Projeto_FlappyBird_Python.git
+   cd Projeto_FlappyBird_Python
    ```
 
 2. Execute o jogo:
