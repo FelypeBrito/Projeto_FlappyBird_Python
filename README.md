@@ -16,7 +16,7 @@ pip install pygame
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/jogo-passaro.git
+   git clone https://github.com/FelypeBrito/jogo-passaro.git
    cd jogo-passaro
    ```
 
